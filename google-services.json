@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245201341482",
+    "project_id": "login-6f49c",
+    "storage_bucket": "login-6f49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245201341482:android:4dd055b5f73395f5ea8753",
+        "android_client_info": {
+          "package_name": "com.suvetha.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245201341482-ntha8qmou2iu7u49u8rg8qq1a23dc86i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHnG-yJ9zUEfM87MoNUgTw6cdYRFC-vLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245201341482-ntha8qmou2iu7u49u8rg8qq1a23dc86i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
